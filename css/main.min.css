@@ -5031,3 +5031,60 @@ body {
 
 
 /*# sourceMappingURL=main.min.css.map */
+@media screen and (max-width: 576px) {
+    .line {
+        width: 91%;
+        height: 2px;
+        top: 93%;
+        left: 5%;
+        right: 0% !important;
+        background: #fff !important;
+    }
+    .logo-absolute {
+        position: absolute !important;
+        width: 75px !important;
+        top: 83% !important;
+        right: 15% !important;
+    
+    }
+
+}
+@media screen and (min-width: 576px) {
+    .line {
+        width: 91%;
+        height: 2px;
+        top: 93%;
+        left: 5%;
+        right: 0% !important;
+        background: #fff !important;
+    }
+    .logo-absolute {
+        position: absolute !important;
+        width: 75px !important;
+        top: 85% !important;
+        right: 15% !important;
+    
+    }
+}
+@media screen and (min-width: 992px) {
+    .line {
+        width: 91%;
+        height: 2px;
+        top: 93%;
+        left: 5%;
+        right: 0% !important;
+        background: #fff !important;
+    }
+    .logo-absolute {
+        position: absolute !important;
+        width: 75px !important;
+        top: 80% !important;
+        right: 8% !important;
+    
+    }
+
+
+}
+
+
+
